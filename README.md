@@ -4,8 +4,10 @@ Hi 👋 My name is Alan Nascimento
 Front-end Developer
 -------------------
 
-* ✉️  You can contact me at [alanflpns@gmail.com](mailto:alanflpns@gmail.com)
-* 🚀  I'm currently working on [QueroDelivery](http://querodelivery.com/)
+* 🌍  I'm based in Lagarto - SE
+* ✉️  You can contact me at [alanflpns@gmail.com](mailto:alanflpns@gmail.com)
+* 🚀  I'm currently working on [QueroDelivery](http://querodelivery.com/)
+* 🧠  I'm learning clean architecture and tests for front-end, micro front-ends
 
 ### Skills
 
