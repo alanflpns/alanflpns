@@ -1,7 +1,7 @@
 Hi 👋 My name is Alan Nascimento
 ================================
 
-Front-end Developer
+Front-end and Mobile Developer
 -------------------
 
 * 🌍  I'm based in Lagarto - SE
